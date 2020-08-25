@@ -1,29 +1,27 @@
-# This is a large heading
+# Samuel Calles
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Monterrey, in Mexico.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favorite books are:
 
-Here is `some code` in the middle of a sentence.
+- *The hobbit* by J. R. R. Tolkien
+- *The Da Vinci Code* by Dan Brown
+- *The Iliad* by Homer
 
-```
-This is
-a block
-of code
-```
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Last night I dreamt about eating in these restaurants:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. Swiss Chuchi in Zurich.
+2. Le Marseillais in Marseille.
+3. The Three Broomsticks in Universal Studios.
 
+### Hobbies
+
+- Watch NFL, mainly **Steelers**
+- Play volleyball
+- Go to gym
